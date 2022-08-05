@@ -1,0 +1,23 @@
+footer {
+    background: linear-gradient(186deg, rgba(2,0,36,1) 0%, rgba(16,16,93,1) 35%, rgba(17,64,74,1) 100%);
+    border: 5px solid #564180;
+    font-family: 'Roboto', sans-serif;
+}
+.contenedor__footer {
+    background: linear-gradient(186deg, rgba(2,0,36,1) 0%, rgba(16,16,93,1) 35%, rgba(17,64,74,1) 100%);
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    width: auto;
+}
+.contenido__footer img {
+    margin: 0 45% 0 45%;
+    color: rgb(0, 255, 242);
+}
+.contenido__footer {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: auto;
+    width: 250px;
+    color: rgb(0, 255, 242);
+}
